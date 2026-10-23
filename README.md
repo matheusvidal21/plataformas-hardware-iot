@@ -20,6 +20,12 @@ Aplicação com ESP32 e HC-SR04 que calcula a distância pelo tempo de retorno d
 
 [Relatório e evidências](reports/report-2/README.md) · [Código-fonte](reports/report-2/source.ino) · [Simulação](reports/report-2/wokwi/diagram.json) · [Enunciado](reports/report-2/HIoT_08.pdf)
 
+### Medição de distância com HC-SR04 por interrupção
+
+Aplicação com ESP32 que usa interrupção nas bordas do sinal ECHO para medir a distância e a informa pela porta serial.
+
+[Relatório e evidências](reports/report-3/README.md) · [Código-fonte](reports/report-3/source.ino) · [Enunciado](reports/report-3/HIoT_11.pdf)
+
 ## Roteiros de laboratório
 
 Os registros abaixo documentam as práticas desenvolvidas ao longo da disciplina.
